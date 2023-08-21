@@ -6,8 +6,6 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background-color: var(--background-color);
-    color: var(--text-color);
   
   }
   
@@ -17,6 +15,8 @@ body {
     border-radius: 10px;
     width: 80%;
     max-width: 400px;
+    background-color: var(--background-color);
+    color: var(--text-color);
   }
   
   h1 {
